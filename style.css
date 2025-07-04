@@ -1,0 +1,18 @@
+#fname{
+    background-color: white;
+      }
+#lname{
+    background-color: yellow;
+      }
+#email{
+    background-color: red;
+      }
+#Address{
+    background-color: green;
+      }
+.ClassForm{
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  background-color: rgb(0, 128, 21);
+
+}

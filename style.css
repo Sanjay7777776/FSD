@@ -1,18 +1,24 @@
-#fullname{
-    background-color:rgb(255, 217, 0)
-}
-#pho{
-    background-color:rgb(43, 255, 0)
-}
+#fname{
+    background-color: white;
+      }
+#lname{
+    background-color: yellow;
+      }
 #email{
-    background-color:rgb(38, 0, 255)
-}
-.Event Regestration Form{
-    font-family: 'Times New Roman', Times, serif ;
-    font-style: italic ;
+    background-color: red;
+      }
+#Address{
+    background-color: green;
+      }
+.ClassForm{
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  background-color: rgb(0, 128, 21);
 
 }
-
 span{
-    color:rgb(247, 0, 255);
+  font: optional;color: red;
+}
+p{
+  visibility: hidden;
 }
